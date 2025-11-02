@@ -33,7 +33,7 @@ A Python-based keylogger designed exclusively for educational and cybersecurity 
 ### Setup
 ```bash
 # Clone repository
-git clone https://github.com/your-username/educational-keylogger.git
+git clone  https://github.com/Jean-Regis-M/Educational_keylogger
 cd educational-keylogger
 
 # Install dependencies
